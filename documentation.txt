@@ -1,0 +1,19 @@
+--NOTES--
+!!!FontAwesome ::
+1-Go fontawesome cdn : cdnjs
+2-Add cdn link in <head> <link css > <link fontawesome > <titl> </head> : .html
+3-Go fontawesome icons
+4-Use free icons 
+
+
+
+--ROADMAP--
+
+1- Template page : .html
+2- Create a database - table user : MySql
+3- Get Data From DB and Create API in page : .php
+4- Get Search Data API in javascript : .js  with fetch (GET) --> Event .oninput() --> Condition ---> use function elementx.search(elementz) : return -1 if emlementz not found in elementx
+5- Get All Data  API in javascript + php +mysql
+6- Add Data To API in javascript + php +mysql
+
+
